@@ -21,14 +21,14 @@ namespace ConsoleApplication1
     {
         public virtual void Method()
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello world");
         }
     }
     class SomeCLass : BaseClass
     {
         public override void Method()
         {
-            Console.WriteLine("Hello Gleb!");
+            Console.WriteLine("Hello Gleb");
         }
     }
 }
